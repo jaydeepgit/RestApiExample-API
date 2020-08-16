@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3774" started-at="2020-08-16T23:07:03 IST" finished-at="2020-08-16T23:07:07 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3774" started-at="2020-08-16T23:07:03 IST" finished-at="2020-08-16T23:07:07 IST">
+      <class name="apiScenarios.UpdateEmployee">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:apiScenarios.UpdateEmployee@6737fd8f]" name="setUp" is-config="true" duration-ms="1062" started-at="2020-08-16T23:07:02 IST" finished-at="2020-08-16T23:07:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="getEmp()[pri:0, instance:apiScenarios.UpdateEmployee@6737fd8f]" name="getEmp" duration-ms="3703" started-at="2020-08-16T23:07:03 IST" finished-at="2020-08-16T23:07:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getEmp -->
+      </class> <!-- apiScenarios.UpdateEmployee -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
